@@ -1,4 +1,4 @@
-# Coding Challenges with Java 
+# Code Challenges
 
 Repository with my code challenge solutions using java
 
