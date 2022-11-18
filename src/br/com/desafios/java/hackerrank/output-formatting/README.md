@@ -1,6 +1,6 @@
 # Java Output Formatting - Challenge from Hacker Rank
 
-This is my solution using Java for Hacker Rank Challenge: Stdin and Stdout II
+This is my solution using Java for Hacker Rank Challenge: Output Formatting
 
 ## Challenge Description
 
