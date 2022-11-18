@@ -2,7 +2,7 @@
 
 Repository with my code challenge solutions using java
 
-The main purpose is to practice and increase my tech skills
+The main purpose is to practice encode with Java language, solve computational problems and improving my skills as a consequence.
 
 |  Challenge         | Problem and Solution Link     |
 | ------------------ | ---------------- |
