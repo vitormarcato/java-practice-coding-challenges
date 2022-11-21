@@ -1,6 +1,6 @@
 # Java Output Formatting - Challenge from Hacker Rank
 
-This is my solution using Java for Hacker Rank Challenge: Stdin and Stdout II
+This is my solution using Java for Hacker Rank Challenge: Output Formatting
 
 ## Challenge Description
 
@@ -10,7 +10,6 @@ The purpose of this exercise is to test your understanding of formatting output 
 
 Every line of input will contain a String followed by an integer.
 Each String will have a maximum of 10 alphabetic characters, and each integer will be in the inclusive range from 0 to 999.
-
 
 **Output Format**
 

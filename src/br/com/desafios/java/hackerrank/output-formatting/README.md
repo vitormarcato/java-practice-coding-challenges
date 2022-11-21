@@ -11,7 +11,6 @@ The purpose of this exercise is to test your understanding of formatting output 
 Every line of input will contain a String followed by an integer.
 Each String will have a maximum of 10 alphabetic characters, and each integer will be in the inclusive range from 0 to 999.
 
-
 **Output Format**
 
 In each line of output there should be two columns:
