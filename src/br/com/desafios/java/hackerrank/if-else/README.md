@@ -26,16 +26,27 @@ Print Weird if the number is weird; otherwise, print Not Weird.
 
 **Sample Input 0**
 
-```3```
+```
+3
+```
+
 **Sample Output 0**
 
- ```Weird```
+ ```
+ Weird
+```
+
 **Sample Input 1**
 
-```24```
+```
+24
+```
+
 **Sample Output 1** 
 
-```Not Weird```
+```
+Not Weird
+```
 
 ### Explanation
 
